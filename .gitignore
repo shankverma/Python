@@ -1,1 +1,5 @@
 .DS_Store
+/datasets/
+/udemy_course_material/
+practice.ipynb
+pyspark_sample.py
